@@ -24,3 +24,4 @@ button.onclick = function () {
 };
 
 
+  alert('hi');
