@@ -22,7 +22,4 @@ button.onclick = function () {
     request.open('GET','http://prakash0544.imad.hasura-app.io/counter', true);
     request.send(null);
 
-
-
-
 };
