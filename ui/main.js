@@ -19,7 +19,7 @@ button.onclick = function () {
         //not done yet
     }
     //make the request
-    request.open('GET','https://prakash0544.imad.hasura-app.io/counter', true);
+    request.open('GET','http://prakash0544.imad.hasura-app.io/counter', true);
     request.send(null);
 
 };
