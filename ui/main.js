@@ -23,5 +23,3 @@ button.onclick = function () {
     request.send(null);
 };
 
-
-  alert('hi');
